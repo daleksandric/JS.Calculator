@@ -1,0 +1,14 @@
+.number {
+    background-color:white;
+}
+
+.operator {
+    color:white;
+    background-color:black;
+    font-size:2em;
+}
+
+input[type=button]{
+    height:45px;
+    width:45px;
+}
